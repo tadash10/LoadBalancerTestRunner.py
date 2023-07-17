@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Gatling Reports
+results/
+
+# Virtual environment
+venv/
